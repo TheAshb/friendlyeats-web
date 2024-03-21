@@ -1,0 +1,21 @@
+[debug] [2024-03-21T02:34:12.493Z] ----------------------------------------------------------------------
+[debug] [2024-03-21T02:34:12.494Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Patron\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-03-21T02:34:12.495Z] CLI Version:   13.5.2
+[debug] [2024-03-21T02:34:12.495Z] Platform:      win32
+[debug] [2024-03-21T02:34:12.495Z] Node Version:  v20.11.1
+[debug] [2024-03-21T02:34:12.495Z] Time:          Wed Mar 20 2024 21:34:12 GMT-0500 (Central Daylight Time)
+[debug] [2024-03-21T02:34:12.495Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-03-21T02:34:12.499Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-03-21T02:34:12.499Z] > authorizing via signed-in user (abadal@wisc.edu)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Patron\Documents\Classes\friendlyeats-web
+
